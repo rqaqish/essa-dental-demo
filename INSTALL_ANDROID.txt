@@ -1,0 +1,5 @@
+ESSA Android home-screen app (PWA)
+1. Open https://rqaqish.github.io/essa-dental-demo/ in Chrome on Android.
+2. Tap menu (three dots) > Install app or Add to Home screen.
+3. Tap Install. The ESSA icon opens the standalone website.
+Note: This is an installable web app, not a native APK. The original Android source project is supplied separately.

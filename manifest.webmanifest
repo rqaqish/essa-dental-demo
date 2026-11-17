@@ -1,1 +1,25 @@
-{"name": "ESSA Dental Clinic", "short_name": "ESSA Dental", "start_url": "./index.html", "display": "standalone", "background_color": "#101d32", "theme_color": "#101d32", "icons": [{"src": "assets/img_app_icon_emblem.jpg", "sizes": "any", "type": "image/jpeg"}]}
+{
+  "name": "ESSA Dental Clinic — عيادة الدكتور عيسى",
+  "short_name": "ESSA",
+  "description": "ESSA Dental Clinic · Amman",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101d32",
+  "theme_color": "#101d32",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
