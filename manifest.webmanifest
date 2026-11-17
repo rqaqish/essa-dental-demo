@@ -1,0 +1,1 @@
+{"name": "ESSA Dental Clinic", "short_name": "ESSA Dental", "start_url": "./index.html", "display": "standalone", "background_color": "#101d32", "theme_color": "#101d32", "icons": [{"src": "assets/img_app_icon_emblem.jpg", "sizes": "any", "type": "image/jpeg"}]}
